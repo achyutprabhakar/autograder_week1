@@ -1,0 +1,14 @@
+{
+  "problem": "add_two_integers",
+  "time_limit_s": 1,
+  "memory_limit_mb": 64,
+  "compile_flags": [
+    "-std=c11",
+    "-Wall",
+    "-Wextra"
+  ],
+  "grading": {
+    "method": "percentage_of_tests_passed",
+    "description": "Week 1 prototype: each test has equal weight."
+  }
+}

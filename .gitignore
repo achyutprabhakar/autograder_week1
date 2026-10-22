@@ -1,0 +1,5 @@
+build/
+reports/*_report.json
+reports/*_report.txt
+__pycache__/
+*.o

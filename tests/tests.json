@@ -1,0 +1,17 @@
+[
+  {
+    "name": "basic_positive",
+    "input": "7 5\n",
+    "expected": "12\n"
+  },
+  {
+    "name": "zero",
+    "input": "0 0\n",
+    "expected": "0\n"
+  },
+  {
+    "name": "negative_numbers",
+    "input": "-3 8\n",
+    "expected": "5\n"
+  }
+]
